@@ -1,0 +1,37 @@
+.img1nsta{
+    width: 100%;
+    max-height: 100%;
+}
+.header2{
+    float: right;
+}
+.paragraph{
+    margin: 4px;
+}
+.footer2{
+    float: right;
+    margin-top: 4px;
+}
+.img1nsta-box{
+    padding: 0px !important; 
+}
+.bginsta{
+    background: #DCDCDC;
+    padding: 15px;
+}
+textarea{
+    width: 100%;
+}
+.Instalogo{
+    color: #757575 !important;
+}
+.navpillsinsta{
+    
+}
+.nav-link.active{
+    color: white !important;
+    background-color: #757575 !important;
+}
+a {
+    color: #757575 !important;
+}
